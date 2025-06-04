@@ -1,3 +1,9 @@
+---
+title: portfolio_chatbot
+app_file: __main__.py
+sdk: gradio
+sdk_version: 5.32.1
+---
 ### Setup environment variables
 ---
 
@@ -32,5 +38,5 @@ pip install -r requirements.txt
 4. Run the app
 ---
 ```cmd
-py app.py
+py .
 ```
